@@ -1,5 +1,33 @@
 # AvökatFinder Sweden
-> English-speaking law firm directory for Sweden
+> The English-language directory of lawyers and law firms in Sweden for expats, foreign nationals and international businesses.
 
-Directory: https://sweden.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://sweden.avokatfinder.com/: Home — find an English-speaking lawyer in Sweden
+- https://sweden.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Sweden
+- https://sweden.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Sweden legal terms
+- https://sweden.avokatfinder.com/blog/: Expat legal guides and property law articles for Sweden
+- https://sweden.avokatfinder.com/about/: About AvökatFinder Sweden
+- https://sweden.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://sweden.avokatfinder.com/glossary/aktenskapsforord/
+- https://sweden.avokatfinder.com/glossary/bodelning/
+- https://sweden.avokatfinder.com/glossary/bostadsratt/
+- https://sweden.avokatfinder.com/glossary/boutredningsman/
+- https://sweden.avokatfinder.com/glossary/kopskontrakt-se/
+- https://sweden.avokatfinder.com/glossary/lagfart/
+- https://sweden.avokatfinder.com/glossary/pantbrev/
+- https://sweden.avokatfinder.com/glossary/personnummer-se/
+- https://sweden.avokatfinder.com/glossary/rattegangsfullmakt/
+- https://sweden.avokatfinder.com/glossary/samboavtal/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Sweden
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://sweden.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
